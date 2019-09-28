@@ -1,0 +1,10 @@
+{
+  "from": [
+    { "value": "111111", "label": "Saving Account - 111111" },
+    { "value": "222222", "label": "Current Account - 222222" }
+  ],
+  "to": [
+    { "value": "123456", "label": "Saving Account - 123456" },
+    { "value": "654321", "label": "Current Account - 654321" }
+  ]
+}
